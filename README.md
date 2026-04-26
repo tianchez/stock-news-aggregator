@@ -4,6 +4,8 @@ A personal day trading dashboard that pulls together stock prices, news, analyst
 
 **Live:** [tz2628-stock-news-aggregator.vercel.app](https://tz2628-stock-news-aggregator.vercel.app)
 
+![Trading Dashboard — GOOGL Overview](public/screenshot-dashboard.png)
+
 ## What It Does
 
 Day trading requires monitoring multiple sources of information: stock prices, breaking news, analyst ratings, financial metrics. This tool consolidates everything for the stocks in your portfolio into a single dashboard so you can review and act quickly.
